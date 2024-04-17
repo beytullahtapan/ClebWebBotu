@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClebWebBot", "ClebWebBot\ClebWebBot.csproj", "{6F484113-99EC-4D96-9532-DDEFFBC5D01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F484113-99EC-4D96-9532-DDEFFBC5D01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F484113-99EC-4D96-9532-DDEFFBC5D01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F484113-99EC-4D96-9532-DDEFFBC5D01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F484113-99EC-4D96-9532-DDEFFBC5D01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B66796-3BFF-465F-BD48-6320B150D217}
+	EndGlobalSection
+EndGlobal
