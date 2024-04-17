@@ -107,7 +107,7 @@ namespace ClebwebBot.commands
                                                 stoks += stokAdet + ",";
                                                 isStockUpdated = true;
                                             }
-                                            if (stokAdetInt != veristok)
+                                            if (stokAdetInt != veristok && stokAdetInt != 0)
                                             {
                                                 response += await UpdateStokAsync(ctx, barkod, stokAdetInt);
                                                 response += "\n";
