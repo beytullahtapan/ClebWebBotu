@@ -38,4 +38,4 @@
 
 Bu projenin bir parçası olan Bot Kontrol Paneli'ne göz atabilirsiniz:
 
-[Panel Projesi](https://github.com/matiassingers/awesome-readme)
+[Panel Projesi](https://github.com/beytullahtapan/ClebWebBotPanel)
